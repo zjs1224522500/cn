@@ -174,7 +174,8 @@ post_meta: false
 
 ### W13：Log-Structured Merge Trees
 * [From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees](https://www.usenix.org/system/files/osdi20-dai_0.pdf)
- * Presentor : lambda, [Nope](https://zjs1224522500.github.io/)
+  * Presentor : lambda, [Nope](https://zjs1224522500.github.io/)
+  * [Slides - lsmt](https://drive.google.com/file/d/1bkPAKejd-QeR0LFlOnbQGQPrXxrSGaZB/view?usp=sharing)
 * 时间：北京时间2021年5月29日上午9点到10点半，[直播地址](http://live.bilibili.com/21829117),[录播地址](https://www.bilibili.com/video/BV1Zh411Y71H/)
 
 ### W14: Serverless (?)
